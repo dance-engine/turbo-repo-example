@@ -1,0 +1,9 @@
+org: dance-engine
+# App name
+# The "App" concept acts as a parent container for one or more "Services," which you can configure via the `app` property in `serverless.yml`.
+# Setting an `app` activates Serverless Framework Dashboard features for that Service, such as tracking deployments, sharing outputs and secrets, and enabling metrics, traces, and logs.
+# This is optional. If you don't want to use Dashboard features, don't set this.
+app: core
+# Service name
+# This is the name of your project/app/service/microservice (it's scope is up to you).
+service: orgs
