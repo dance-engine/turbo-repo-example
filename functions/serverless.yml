@@ -1,7 +1,3 @@
 org: dance-engine
 app: core
 service: orgs
-stages:
-  prod:
-  default:
-    observability: false
